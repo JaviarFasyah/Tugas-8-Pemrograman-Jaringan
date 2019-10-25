@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5d843c2d295fea93db6076be"},"nama":"javiar","email":"javiar@email.com","no_tlp":"087","alamat":"Jl A09"}
+{"_id":{"$oid":"5d843e5f24c3c49171d76d09"},"nama":"fahrur","email":"fahrur@email.com","no_tlp":"0889","alamat":"Jl E10"}
+{"_id":{"$oid":"5d843e7524c3c49171d76d0a"},"nama":"hilmi","email":"hilmi@email.com","no_tlp":"089","alamat":"Jl C11"}
